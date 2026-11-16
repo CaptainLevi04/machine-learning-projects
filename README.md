@@ -1,4 +1,4 @@
-# Applied Machine Learning Portfolio Repository
+# Applied Machine Learning 
 
 A curated collection of end-to-end Machine Learning systems, demonstrating practical expertise in statistical data preprocessing, exploratory data analysis, feature engineering, and rigorous benchmarking across industrial, marketing, and educational domains.
 
