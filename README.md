@@ -94,8 +94,3 @@ python 01-predictive-maintenance/src/train_predictive_maintenance.py --target_mo
 ```
 
 ---
-
-## 👤 Author & Acknowledgments
-
-- **Engineer**: Amr Gamal ([@CaptainLevi04](https://github.com/CaptainLevi04))
-- **Program**: EME Artificial Intelligence & Machine Learning Training Program
