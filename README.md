@@ -69,7 +69,7 @@ machine-learning-projects/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/amrgamal007/machine-learning-projects.git
+git clone https://github.com/CaptainLevi04/machine-learning-projects.git
 cd machine-learning-projects
 ```
 
@@ -97,5 +97,5 @@ python 01-predictive-maintenance/src/train_predictive_maintenance.py --target_mo
 
 ## 👤 Author & Acknowledgments
 
-- **Engineer**: Amr Gamal ([@amrgamal007](https://github.com/amrgamal007))
+- **Engineer**: Amr Gamal ([@CaptainLevi04](https://github.com/CaptainLevi04))
 - **Program**: EME Artificial Intelligence & Machine Learning Training Program
